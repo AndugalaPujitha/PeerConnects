@@ -1,4 +1,4 @@
-Peer Connects
+# Vishnu Peer Connects  [  🌐Demo](https://vishnupeerconnects.netlify.app/)
 
 Introduction
 Peer Connects is a simple web application designed to serve as a social platform for communication and interaction within the SVCEW (Sri Vishnu Engineering College for Women) community. It provides features for users to post updates, view trending topics, and connect with fellow students, alumni, and faculty members.
